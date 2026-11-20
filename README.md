@@ -277,3 +277,5 @@ python3 android/tools/test_screenshot_compare.py compare \
 MIT，见 [LICENSE](LICENSE)。© 2026 Xiaozhi & Tono AI Team。
 
 Worker 镜像中的第三方组件列在 [plugins/THIRD_PARTY.md](plugins/THIRD_PARTY.md) 与 [shell/THIRD_PARTY.md](shell/THIRD_PARTY.md)。社区项目，与 DeepSeek 官方无隶属或背书关系。
+
+PhoneDSH iPhone push check 8bed1f14-6ebf-4eda-9c00-c9e9cec99e23
